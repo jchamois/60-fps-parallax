@@ -89,10 +89,6 @@ blockquote:after {
 	background-color: rgba(0,0,0,0.3);
 	color:#fff;
 }
-.abs-l{
-	left:5%;
-}
+.abs-l{left:5%}
 
-.abs-r{
-	right:5%;
-}
+.abs-r{right:5%}

@@ -1,0 +1,24 @@
+{
+  "name": "60-fps-parallax",
+  "homepage": "https://github.com/jchamois/60-fps-parallax",
+  "authors": [
+    "Jérémy Chamois <jeremy.chamois@gmail.com>"
+  ],
+  "description": "parallax script",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "parallax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "checkvisibility": "https://github.com/jchamois/checkvisibility.git"
+  }
+}
